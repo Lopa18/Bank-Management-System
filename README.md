@@ -6,6 +6,6 @@ It provides a user-friendly interface for managing accounts, transactions, and o
 - Account creation and management
 * Deposit and withdrawal transactions
 + Balance inquiry
-Transaction history
-User-friendly GUI with Java Swing
++ Transaction history
++ User-friendly GUI with Java Swing
 
