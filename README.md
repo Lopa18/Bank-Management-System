@@ -10,7 +10,7 @@ It provides a user-friendly interface for managing accounts, transactions, and o
 + User-friendly GUI with Java Swing
 
 # Screenshot
-+ Sign in/Sign Up Page
+# Sign in/Sign Up Page
 ![Screenshot 2024-08-08 125637](https://github.com/user-attachments/assets/469545ca-7864-42b0-99cf-9289f62acf07)
 
 + Sign in Form
