@@ -8,6 +8,9 @@ It provides a user-friendly interface for managing accounts, transactions, and o
 + Balance inquiry
 + Transaction history
 + User-friendly GUI with Java Swing
+
+# Screenshot
+
 # Technologies Used
 + Java
 + Java Swing
