@@ -29,3 +29,4 @@ It provides a user-friendly interface for managing accounts, transactions, and o
 # Technologies Used
 + Java
 + Java Swing
++ MySQL
